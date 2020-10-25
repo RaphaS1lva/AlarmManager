@@ -1,0 +1,2 @@
+rootProject.name='AlarmeNac2'
+include ':app'
