@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/timepicker"
         android:layout_centerHorizontal="true"
-        android:background="#FFFFFF"></ToggleButton>
+        android:background="#03DAC5"
+        android:textColor="@android:color/white"></ToggleButton>
 
 </RelativeLayout>
