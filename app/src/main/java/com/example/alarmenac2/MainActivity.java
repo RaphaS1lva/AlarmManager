@@ -63,8 +63,6 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Alarme Deletado", Toast.LENGTH_SHORT).show();
                 }
             }
-        }
-
-        
+        });
     }
 }
